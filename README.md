@@ -1,5 +1,5 @@
 # NormalForms
-Julia software for solving systems of polynomial equations via normal form methods
+Julia software for solving systems of polynomial equations via normal form methods.
 
 Brief description of the files: 
 
