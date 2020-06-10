@@ -8,7 +8,7 @@ using PyPlot
 import PyPlot: pygui
 PyPlot.pygui(true)
 include("TNFtools.jl")
-include("toricTNF.jl")
+include("toricHNF.jl")
 include("denseTNF.jl")
 
 #----------------------------------------------------------------------------
