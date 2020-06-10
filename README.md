@@ -9,7 +9,7 @@ Brief description of the files:
 
 <b>projHNF.jl</b> : Routines for solving zero-dimensional systems in projective space using homogeneous normal forms. Implementation of [Thesis, Algorithm 4.2] and variants.
 
-<b>polyhedralTNF.jl</b> : Routines for solving generic members of a polyhedral family of systems using truncated normal form. Implementation of [Thesis, Algorithm 5.3] and variants.
+<b>polyhedralTNF.jl</b> : Routines for solving generic members of a polyhedral family of systems using truncated normal forms. Implementation of [Thesis, Algorithm 5.3] and variants.
 
 <b>toricHNF.jl</b> : Routines for solving zero-dimensional systems in a complete toric variety. Implementation of [Thesis, Algorithm 5.6] and variants. 
 
